@@ -1,4 +1,4 @@
-#🎮 DIY-Arduino-Gaming-Controller
+# 🎮 DIY-Arduino-Gaming-Controller
 
 This project transforms an Arduino into a custom game controller using motion and joystick input. It integrates an **ADXL345 accelerometer** for tilt-based directional control and a **joystick module** for additional actions like jumping and firing. A **Python script** reads input from the Arduino via serial communication and simulates keyboard and mouse events for seamless PC gameplay.
 
