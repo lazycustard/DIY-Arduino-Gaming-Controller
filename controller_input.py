@@ -29,7 +29,10 @@ while True:
         elif line == "JUMP":
             pyautogui.press('space')
         elif line == "FIRE"
-            pyautogui.press()
+            pyautogui.mouseDown()
+            time.sleep(0.05)
+            pyautogui.mouseUp()
+
         elif line == "RELOAD":
             pyautogui.press('r')
 
