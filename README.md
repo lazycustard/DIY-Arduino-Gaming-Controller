@@ -10,8 +10,8 @@ This project transforms an Arduino into a custom game controller using motion an
 | --------------- | ----------------------- | ----------------- |
 | Move Left/Right | Tilt ADXL345 (X-axis)   | `A` / `D`         |
 | Move Up/Down    | Tilt ADXL345 (Y-axis)   | `W` / `S`         |
-| Fire            | Joystick pushed up      | Left Mouse Click  |
-| Reload          | Joystick pushed down    | `R`               |
+| Fire            | Joystick pushed left    | Left Mouse Click  |
+| Reload          | Joystick pushed right   | `R`               |
 | Jump            | Joystick button pressed | `SPACE`           |
 
 ---
