@@ -83,8 +83,8 @@ python controller_input.py
 
 * **Tilt left/right** – Move left/right (`A` / `D`)
 * **Tilt forward/backward** – Move forward/backward (`W` / `S`)
-* **Push joystick up** – Fire / Tap (Left Mouse Click)
-* **Push joystick down** – Reload (`R`)
+* **Push joystick towards left** – Fire / Tap (Left Mouse Click)
+* **Push joystick towards right** – Reload (`R`)
 * **Press joystick button** – Jump (`SPACE`)
 
 ---
